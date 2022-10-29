@@ -21,7 +21,7 @@ import ShoppingCartIcon from '@material-ui/icons/ShoppingCart';
 import Home from './Home.css';
 import Link from '@material-ui/core/Link';
 import { Redirect } from 'react-router-dom';
-import Login from '../login';   
+import Login from '../login';
 import SignUp from '../signUp';
 import { NavLink } from 'react-router-dom';
 import authService from '../service/auth.service';
